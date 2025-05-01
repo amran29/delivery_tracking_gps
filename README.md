@@ -1,5 +1,23 @@
-Flutter 105 Free Course
+App Description: delivery_tracking_gps
+Overview:
+delivery_tracking_gps is an innovative application designed to enhance delivery services by providing real-time GPS tracking. Users can easily monitor their shipments, ensuring transparency and timely updates.
 
-- [Course Link On YouTube](https://www.youtube.com/watch?v=0GTZqdIT4Q4&ab_channel=%D8%AF%D9%84%D9%8A%D9%84%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%87%D9%85%D8%A7%D9%85)
+Features:
 
-![preview](preview/1.jpg)
+Real-Time Tracking: Track shipments live.
+Instant Notifications: Receive updates on delivery status.
+User-Friendly Interface: Simple and intuitive design.
+Delivery History: Access previous delivery records.
+Benefits:
+Improves customer experience and reduces anxiety related to delivery processes.
+
+Technologies Used:
+
+GPS technology for location tracking.
+APIs for maps and navigation.
+How to Use:
+
+Download the app from the store.
+Create an account or log in.
+Enter shipment details and track easily.
+Feel free to adjust any part as needed!
